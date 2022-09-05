@@ -17,3 +17,11 @@ Almost no projects will handle this properly. To make your project compatible:
 
  - First, make it compatible with [custom stage size](/custom-stage-size) at all (see that page for information)
  - Then, change your stage size detection logic to run every frame and make sure to always update the positions of items (yes this is inefficient and strange, but it's plenty fast and the best choice for now)
+
+
+
+
+
+
+
+AAAAAAAAAAAAAAAAAAAAAAAA
